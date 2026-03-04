@@ -1,0 +1,27 @@
+# Gradle files
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Build directory
+build/
+*.apk
+*.ap_
+
+# Local configuration file
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+
+# Generated files
+gen/
+.DS_Store
+
+# Android Studio
+.android/
